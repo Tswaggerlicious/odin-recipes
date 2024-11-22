@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.first-header {
+    font-size: 36px;
+    color: darkolivegreen;
+    font-weight: 800;
+}
+
+.text {
+    font-size: 24px;
+    color: black;
+}
+
+.list {
+    text-align: left;
+}
+
+button {
+    background-color: aqua;
+    font-weight: 400;
+    font-size: 24px;
+}
